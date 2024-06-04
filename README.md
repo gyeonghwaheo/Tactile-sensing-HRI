@@ -9,5 +9,5 @@
 <sup>3</sup>Graduate School of Information, Yonsei University, Seoul 03722, Republic of Korea   
 <sup>4</sup>Engineering Research Center for Color-Modulated Extra-Sensory Perception Technology, Pusan National University, Busan 46241, Republic of Korea 
 
-## Dependency   
-This repo is written in Python 3.8.16.
+This repo is written in Python 3.8.16. We provide an environment setup file with all the dependencies needed to run our code.
+There are two main python files: `Real-time Braille recognition.py` for real-time Braille recognition and `Human-robot interface.py`, which implements the human-robot interface.
